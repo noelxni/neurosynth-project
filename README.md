@@ -3,7 +3,7 @@
 
 *Student ID*: 2852989 
 
-**Date**: 01.12.2024 
+**Date**: 26.11.2024 
 
 **Link**: [Neurosynth: Reading](https://neurosynth.org/analyses/terms/reading/)
 
